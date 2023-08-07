@@ -1,1 +1,24 @@
-'your new content' 
+I will be there tomorrow
+You will be there tomorrow
+yes
+No
+exit
+
+
+
+
+
+
+cls
+
+
+git restore emptyfile.txt
+No
+git status
+
+
+
+
+
+
+csc
